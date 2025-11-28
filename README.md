@@ -67,7 +67,7 @@ I believe the best developers are **makers** first — people who don't just und
 
 ---
 
-### 🎯 What I'm Building Right Now
+### 🎯 What i'm building right now
 ```javascript
 const currentProjects = {
   smart_home: {
