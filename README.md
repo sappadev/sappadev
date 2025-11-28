@@ -102,11 +102,10 @@ const currentProjects = {
 ### ⚡ Quick Facts
 
 - 🎓 **Status:** 14 | **Location:** Piedmont, Italy
-- 💡 **First Line of Code:** Age 8
-- 🔧 **Hardware Projects:** 20+ Arduino/ESP builds
-- 🏠 **Smart Home Devices:** programmed a 600+ devices home domotics system
-- 🚁 **Drone Flights:** 100+ hours logged
-- ☕ **Coffee Consumed:** `console.log("Too much")`
+- 💡 **First line of code:** Age 8
+- 🔧 **Hardware projects:** 20+ Arduino/ESP builds
+- 🏠 **Smart home devices:** programmed a 600+ devices home domotics system
+- 🚁 **Drone flights:** 100+ hours logged
 
 ---
 
