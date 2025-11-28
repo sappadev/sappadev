@@ -34,7 +34,7 @@ I'm an independent developer building my version of the digital world one step a
 <details open>
 <summary><h3>👨‍💻 My coding journey</h3></summary>
 
-I started my coding journey at 11, diving headfirst into **web development** with HTML, CSS, and JavaScript. What began as simple static pages quickly evolved into dynamic applications powered by **Node.js** and **Express**. But I didn't stop at software.
+I started my coding journey at 8, diving headfirst into **Discord bots development** for fun, then **web development** with HTML, CSS, and JavaScript. What began as simple static pages quickly evolved into dynamic applications powered by **Node.js** and **Express**. But I didn't stop at software.
 
 The real magic happened when I discovered the intersection of **code and hardware**. Building my first Arduino project opened a new dimension — suddenly, I wasn't just pushing pixels on a screen, I was controlling **real-world objects**. LED strips that responded to sensor data, ESP32 boards communicating over WiFi, **Home Assistant automations** that made everyday life smarter.
 
